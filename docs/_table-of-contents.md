@@ -16,7 +16,6 @@
   - [NextJS](/nextjs)
   - [Nuxt](/nuxt)
   - [React](/react)
-  - [Remix](/remix)
 - [Configuration](/configuration)
   - [Overview](/configuration)
   - [Proxying Requests](/proxying-requests)
